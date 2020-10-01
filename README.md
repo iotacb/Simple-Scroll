@@ -4,8 +4,12 @@ A simple JavaScript script to add and remove or to modify styling of an element 
 
 ## Installation
 
-Just add the script tag below to the end of your HTML file.
+With NPM
+```bash
+npm i simple-scroll.js
+```
 
+Without NPM
 ```bash
 <script src="https://cdn.jsdelivr.net/gh/iotacb/simple-scroll/src/simple-scroll-min.js"></script>
 ```
