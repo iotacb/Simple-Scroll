@@ -11,7 +11,8 @@ npm i simple-scroll.js
 
 Without NPM
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/iotacb/simple-scroll/src/simple-scroll-min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-scroll.js@1.0.1/src/simple-scroll.min.css"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/simple-scroll.js@1.0.1/src/simple-scroll.min.js"></script>
 ```
 
 ## Usage
